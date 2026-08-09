@@ -1,6 +1,6 @@
 # Movie Search website
 
-Ứng dụng tìm kiếm phim được xây dựng bằng HTML, CSS và JavaScript.
+Website tìm kiếm phim được xây dựng bằng React.
 
 ## Chức năng
 
