@@ -5,7 +5,7 @@
         "genre": "Action",
         "year": 2021,
         "rating": 8.5,
-        "poster": "/posters/spiderman.jpg"
+        "poster": "posters/spiderman.jpg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "genre": "Sci-Fi",
         "year": 2014,
         "rating": 8.7,
-        "poster": "/posters/interstellar.jpg"
+        "poster": "posters/interstellar.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "genre": "Animation",
         "year": 1995,
         "rating": 8.3,
-        "poster": "/posters/toystory.jpg"
+        "poster": "posters/toystory.jpg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "genre": "Sci-Fi",
         "year": 2010,
         "rating": 8.8,
-        "poster": "/posters/inception.jpg"
+        "poster": "posters/inception.jpg"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "genre": "Action",
         "year": 2008,
         "rating": 9.0,
-        "poster": "/posters/thedarkknight.jpg"
+        "poster": "posters/thedarkknight.jpg"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "genre": "Action",
         "year": 2019,
         "rating": 8.4,
-        "poster": "/posters/endgame.jpg"
+        "poster": "posters/endgame.jpg"
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "genre": "Drama",
         "year": 1994,
         "rating": 9.3,
-        "poster": "/posters/shawshank.jpg"
+        "poster": "posters/shawshank.jpg"
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "genre": "Drama",
         "year": 1994,
         "rating": 8.8,
-        "poster": "/posters/forrestgump.jpg"
+        "poster": "posters/forrestgump.jpg"
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "genre": "Romance",
         "year": 1997,
         "rating": 7.9,
-        "poster": "/posters/titanic.jpg"
+        "poster": "posters/titanic.jpg"
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "genre": "Sci-Fi",
         "year": 1999,
         "rating": 8.7,
-        "poster": "/posters/matrix.jpg"
+        "poster": "posters/matrix.jpg"
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "genre": "Animation",
         "year": 2017,
         "rating": 8.4,
-        "poster": "/posters/coco.jpg"
+        "poster": "posters/coco.jpg"
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "genre": "Animation",
         "year": 2013,
         "rating": 7.4,
-        "poster": "/posters/frozen.jpg"
+        "poster": "posters/frozen.jpg"
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "genre": "Animation",
         "year": 1994,
         "rating": 8.5,
-        "poster": "/posters/lionking.jpg"
+        "poster": "posters/lionking.jpg"
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "genre": "Thriller",
         "year": 2019,
         "rating": 8.5,
-        "poster": "/posters/parasite.jpg"
+        "poster": "posters/parasite.jpg"
     },
     {
         "id": 15,
@@ -117,7 +117,7 @@
         "genre": "Drama",
         "year": 2019,
         "rating": 8.4,
-        "poster": "/posters/joker.jpg"
+        "poster": "posters/joker.jpg"
     },
     {
         "id": 16,
@@ -125,7 +125,7 @@
         "genre": "Action",
         "year": 2000,
         "rating": 8.5,
-        "poster": "/posters/gladiator.jpg"
+        "poster": "posters/gladiator.jpg"
     },
     {
         "id": 17,
@@ -133,7 +133,7 @@
         "genre": "Crime",
         "year": 1972,
         "rating": 9.2,
-        "poster": "/posters/godfather.jpg"
+        "poster": "posters/godfather.jpg"
     },
     {
         "id": 18,
@@ -141,7 +141,7 @@
         "genre": "Action",
         "year": 2014,
         "rating": 7.4,
-        "poster": "/posters/johnwick.jpg"
+        "poster": "posters/johnwick.jpg"
     },
     {
         "id": 19,
@@ -149,7 +149,7 @@
         "genre": "Action",
         "year": 2022,
         "rating": 8.3,
-        "poster": "/posters/topgun.jpg"
+        "poster": "posters/topgun.jpg"
     },
     {
         "id": 20,
@@ -157,7 +157,7 @@
         "genre": "Animation",
         "year": 2020,
         "rating": 8.0,
-        "poster": "/posters/soul.jpg"
+        "poster": "posters/soul.jpg"
     },
     {
         "id": 21,
@@ -165,7 +165,7 @@
         "genre": "Action",
         "year": 2022,
         "rating": 7.8,
-        "poster": "/posters/thebatman.jpg"
+        "poster": "posters/thebatman.jpg"
     },
     {
         "id": 22,
@@ -173,7 +173,7 @@
         "genre": "Sci-Fi",
         "year": 2021,
         "rating": 8.0,
-        "poster": "/posters/dune.jpg"
+        "poster": "posters/dune.jpg"
     },
     {
         "id": 23,
@@ -181,7 +181,7 @@
         "genre": "Animation",
         "year": 2003,
         "rating": 8.2,
-        "poster": "/posters/findingnemo.jpg"
+        "poster": "posters/findingnemo.jpg"
     },
     {
         "id": 24,
@@ -189,7 +189,7 @@
         "genre": "Biography",
         "year": 2023,
         "rating": 8.3,
-        "poster": "/posters/oppenheimer.jpg"
+        "poster": "posters/oppenheimer.jpg"
     },
     {
         "id": 25,
@@ -197,7 +197,7 @@
         "genre": "Fantasy",
         "year": 2003,
         "rating": 9.0,
-        "poster": "/posters/lotr-returnoftheking.jpg"
+        "poster": "posters/lotr-returnoftheking.jpg"
     },
     {
         "id": 26,
@@ -205,7 +205,7 @@
         "genre": "Crime",
         "year": 1994,
         "rating": 8.9,
-        "poster": "/posters/pulpfiction.jpg"
+        "poster": "posters/pulpfiction.jpg"
     },
     {
         "id": 27,
@@ -213,7 +213,7 @@
         "genre": "Drama",
         "year": 1999,
         "rating": 8.8,
-        "poster": "/posters/fightclub.jpg"
+        "poster": "posters/fightclub.jpg"
     },
     {
         "id": 28,
@@ -221,7 +221,7 @@
         "genre": "Drama",
         "year": 1999,
         "rating": 8.6,
-        "poster": "/posters/thegreenmile.jpg"
+        "poster": "posters/thegreenmile.jpg"
     },
     {
         "id": 29,
@@ -229,7 +229,7 @@
         "genre": "Drama",
         "year": 2014,
         "rating": 8.5,
-        "poster": "/posters/whiplash.jpg"
+        "poster": "posters/whiplash.jpg"
     },
     {
         "id": 30,
@@ -237,7 +237,7 @@
         "genre": "Action",
         "year": 2015,
         "rating": 8.1,
-        "poster": "/posters/madmax.jpg"
+        "poster": "posters/madmax.jpg"
     },
     {
         "id": 31,
@@ -245,7 +245,7 @@
         "genre": "Drama",
         "year": 2006,
         "rating": 8.5,
-        "poster": "/posters/prestige.jpg"
+        "poster": "posters/prestige.jpg"
     },
     {
         "id": 32,
@@ -253,7 +253,7 @@
         "genre": "Crime",
         "year": 2006,
         "rating": 8.5,
-        "poster": "/posters/departed.jpg"
+        "poster": "posters/departed.jpg"
     },
     {
         "id": 33,
@@ -261,7 +261,7 @@
         "genre": "Thriller",
         "year": 2010,
         "rating": 8.2,
-        "poster": "/posters/shutterisland.jpg"
+        "poster": "posters/shutterisland.jpg"
     },
     {
         "id": 34,
@@ -269,7 +269,7 @@
         "genre": "Crime",
         "year": 1995,
         "rating": 8.6,
-        "poster": "/posters/se7en.jpg"
+        "poster": "posters/se7en.jpg"
     },
     {
         "id": 35,
@@ -277,7 +277,7 @@
         "genre": "Thriller",
         "year": 1991,
         "rating": 8.6,
-        "poster": "/posters/silenceofthelambs.jpg"
+        "poster": "posters/silenceofthelambs.jpg"
     },
     {
         "id": 36,
@@ -285,7 +285,7 @@
         "genre": "Biography",
         "year": 2010,
         "rating": 7.8,
-        "poster": "/posters/socialnetwork.jpg"
+        "poster": "posters/socialnetwork.jpg"
     },
     {
         "id": 37,
@@ -293,7 +293,7 @@
         "genre": "Biography",
         "year": 2013,
         "rating": 8.2,
-        "poster": "/posters/wolfofwallstreet.jpg"
+        "poster": "posters/wolfofwallstreet.jpg"
     },
     {
         "id": 38,
@@ -301,7 +301,7 @@
         "genre": "Biography",
         "year": 2001,
         "rating": 8.2,
-        "poster": "/posters/abeautifulmind.jpg"
+        "poster": "posters/abeautifulmind.jpg"
     },
     {
         "id": 39,
@@ -309,7 +309,7 @@
         "genre": "Action",
         "year": 1995,
         "rating": 8.3,
-        "poster": "/posters/braveheart.jpg"
+        "poster": "posters/braveheart.jpg"
     },
     {
         "id": 40,
@@ -317,7 +317,7 @@
         "genre": "Drama",
         "year": 2015,
         "rating": 8.0,
-        "poster": "/posters/revenant.jpg"
+        "poster": "posters/revenant.jpg"
     },
     {
         "id": 41,
@@ -325,7 +325,7 @@
         "genre": "Action",
         "year": 2017,
         "rating": 8.1,
-        "poster": "/posters/logan.jpg"
+        "poster": "posters/logan.jpg"
     },
     {
         "id": 42,
@@ -333,7 +333,7 @@
         "genre": "Action",
         "year": 2018,
         "rating": 7.3,
-        "poster": "/posters/blackpanther.jpg"
+        "poster": "posters/blackpanther.jpg"
     },
     {
         "id": 43,
@@ -341,7 +341,7 @@
         "genre": "Action",
         "year": 2016,
         "rating": 7.5,
-        "poster": "/posters/doctorstrange.jpg"
+        "poster": "posters/doctorstrange.jpg"
     },
     {
         "id": 44,
@@ -349,7 +349,7 @@
         "genre": "Action",
         "year": 2008,
         "rating": 7.9,
-        "poster": "/posters/ironman.jpg"
+        "poster": "posters/ironman.jpg"
     },
     {
         "id": 45,
@@ -357,7 +357,7 @@
         "genre": "Action",
         "year": 2016,
         "rating": 7.8,
-        "poster": "/posters/civilwar.jpg"
+        "poster": "posters/civilwar.jpg"
     },
     {
         "id": 46,
@@ -365,7 +365,7 @@
         "genre": "Animation",
         "year": 2009,
         "rating": 8.3,
-        "poster": "/posters/up.jpg"
+        "poster": "posters/up.jpg"
     },
     {
         "id": 47,
@@ -373,7 +373,7 @@
         "genre": "Animation",
         "year": 2015,
         "rating": 8.1,
-        "poster": "/posters/insideout.jpg"
+        "poster": "posters/insideout.jpg"
     },
     {
         "id": 48,
@@ -381,7 +381,7 @@
         "genre": "Animation",
         "year": 2016,
         "rating": 8.0,
-        "poster": "/posters/zootopia.jpg"
+        "poster": "posters/zootopia.jpg"
     },
     {
         "id": 49,
@@ -389,7 +389,7 @@
         "genre": "Animation",
         "year": 2016,
         "rating": 7.6,
-        "poster": "/posters/moana.jpg"
+        "poster": "posters/moana.jpg"
     },
     {
         "id": 50,
@@ -397,7 +397,7 @@
         "genre": "Animation",
         "year": 2010,
         "rating": 8.1,
-        "poster": "/posters/dragon.jpg"
+        "poster": "posters/dragon.jpg"
     },
     {
         "id": 51,
@@ -405,7 +405,7 @@
         "genre": "Animation",
         "year": 2004,
         "rating": 8.0,
-        "poster": "/posters/incredibles.jpg"
+        "poster": "posters/incredibles.jpg"
     },
     {
         "id": 52,
@@ -413,7 +413,7 @@
         "genre": "Animation",
         "year": 2001,
         "rating": 8.1,
-        "poster": "/posters/monstersinc.jpg"
+        "poster": "posters/monstersinc.jpg"
     },
     {
         "id": 53,
@@ -421,7 +421,7 @@
         "genre": "Animation",
         "year": 2007,
         "rating": 8.1,
-        "poster": "/posters/ratatouille.jpg"
+        "poster": "posters/ratatouille.jpg"
     },
     {
         "id": 54,
@@ -429,7 +429,7 @@
         "genre": "Animation",
         "year": 2008,
         "rating": 8.4,
-        "poster": "/posters/walle.jpg"
+        "poster": "posters/walle.jpg"
     },
     {
         "id": 55,
@@ -437,7 +437,7 @@
         "genre": "Animation",
         "year": 2001,
         "rating": 9.3,
-        "poster": "/posters/spiritedaway.jpg"
+        "poster": "posters/spiritedaway.jpg"
     },
     {
         "id": 56,
@@ -445,7 +445,7 @@
         "genre": "Animation",
         "year": 2016,
         "rating": 8.4,
-        "poster": "/posters/yourname.jpg"
+        "poster": "posters/yourname.jpg"
     },
     {
         "id": 57,
@@ -453,7 +453,7 @@
         "genre": "Animation",
         "year": 2019,
         "rating": 7.5,
-        "poster": "/posters/weatheringwithyou.jpg"
+        "poster": "posters/weatheringwithyou.jpg"
     },
     {
         "id": 58,
@@ -461,7 +461,7 @@
         "genre": "Romance",
         "year": 2004,
         "rating": 7.8,
-        "poster": "/posters/notebook.jpg"
+        "poster": "posters/notebook.jpg"
     },
     {
         "id": 59,
@@ -469,7 +469,7 @@
         "genre": "Romance",
         "year": 2016,
         "rating": 8.0,
-        "poster": "/posters/lalaland.jpg"
+        "poster": "posters/lalaland.jpg"
     },
     {
         "id": 60,
@@ -477,7 +477,7 @@
         "genre": "Romance",
         "year": 2016,
         "rating": 7.4,
-        "poster": "/posters/mebeforeyou.jpg"
+        "poster": "posters/mebeforeyou.jpg"
     },
     {
         "id": 61,
@@ -485,7 +485,7 @@
         "genre": "Thriller",
         "year": 2013,
         "rating": 7.5,
-        "poster": "/posters/conjuring.jpg"
+        "poster": "posters/conjuring.jpg"
     },
     {
         "id": 62,
@@ -493,7 +493,7 @@
         "genre": "Thriller",
         "year": 2017,
         "rating": 7.3,
-        "poster": "/posters/it.jpg"
+        "poster": "posters/it.jpg"
     },
     {
         "id": 63,
@@ -501,7 +501,7 @@
         "genre": "Thriller",
         "year": 2018,
         "rating": 7.5,
-        "poster": "/posters/aquietplace.jpg"
+        "poster": "posters/aquietplace.jpg"
     },
     {
         "id": 64,
@@ -509,7 +509,7 @@
         "genre": "Action",
         "year": 2021,
         "rating": 7.3,
-        "poster": "/posters/notimetodie.jpg"
+        "poster": "posters/notimetodie.jpg"
     },
     {
         "id": 65,
@@ -517,7 +517,7 @@
         "genre": "Action",
         "year": 2012,
         "rating": 7.8,
-        "poster": "/posters/skyfall.jpg"
+        "poster": "posters/skyfall.jpg"
     },
     {
         "id": 66,
@@ -525,7 +525,7 @@
         "genre": "Action",
         "year": 2006,
         "rating": 8.0,
-        "poster": "/posters/casinoroyale.jpg"
+        "poster": "posters/casinoroyale.jpg"
     },
     {
         "id": 67,
@@ -533,7 +533,7 @@
         "genre": "Fantasy",
         "year": 2001,
         "rating": 7.6,
-        "poster": "/posters/hp1.jpg"
+        "poster": "posters/hp1.jpg"
     },
     {
         "id": 68,
@@ -541,7 +541,7 @@
         "genre": "Fantasy",
         "year": 2004,
         "rating": 7.9,
-        "poster": "/posters/hp3.jpg"
+        "poster": "posters/hp3.jpg"
     },
     {
         "id": 69,
@@ -549,7 +549,7 @@
         "genre": "Fantasy",
         "year": 2016,
         "rating": 7.2,
-        "poster": "/posters/fantasticbeasts.jpg"
+        "poster": "posters/fantasticbeasts.jpg"
     },
     {
         "id": 70,
@@ -557,7 +557,7 @@
         "genre": "Sci-Fi",
         "year": 2022,
         "rating": 7.6,
-        "poster": "/posters/avatar2.jpg"
+        "poster": "posters/avatar2.jpg"
     },
     {
         "id": 71,
@@ -565,7 +565,7 @@
         "genre": "Sci-Fi",
         "year": 2014,
         "rating": 7.9,
-        "poster": "/posters/edgeoftomorrow.jpg"
+        "poster": "posters/edgeoftomorrow.jpg"
     },
     {
         "id": 72,
@@ -573,7 +573,7 @@
         "genre": "Sci-Fi",
         "year": 2016,
         "rating": 7.9,
-        "poster": "/posters/arrival.jpg"
+        "poster": "posters/arrival.jpg"
     },
     {
         "id": 73,
@@ -581,7 +581,7 @@
         "genre": "Sci-Fi",
         "year": 2017,
         "rating": 8.0,
-        "poster": "/posters/bladerunner2049.jpg"
+        "poster": "posters/bladerunner2049.jpg"
     },
     {
         "id": 74,
@@ -589,7 +589,7 @@
         "genre": "Sci-Fi",
         "year": 2015,
         "rating": 8.0,
-        "poster": "/posters/martian.jpg"
+        "poster": "posters/martian.jpg"
     },
     {
         "id": 75,
@@ -597,6 +597,6 @@
         "genre": "Sci-Fi",
         "year": 2022,
         "rating": 7.8,
-        "poster": "/posters/everythingeverywhere.jpg"
+        "poster": "posters/everythingeverywhere.jpg"
     }
 ]
