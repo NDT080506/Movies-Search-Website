@@ -1,4 +1,4 @@
-# Movie Search App
+# Movie Search website
 
 Ứng dụng tìm kiếm phim được xây dựng bằng HTML, CSS và JavaScript.
 
@@ -24,7 +24,9 @@
 git clone https://github.com/NDT080506/MovieSearchApp.git
 ```
 
-2. Mở file `index.html` bằng trình duyệt.
+2. Mở terminal rồi đánh "npm run dev"
+
+3. Sau do đánh tiếp "o" và enter
 
 ## 🌐 Live Demo
 

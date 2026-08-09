@@ -2,7 +2,7 @@ function MovieCard({ movie }) {
     return (
         <div className="card">
             <div className="header">
-                <img src={movie.poster} alt={movie.title} />
+                <img src={`${import.meta.env.BASE_URL}${movie.poster}`} alt={movie.title} />
             </div>
 
             <div className="body">

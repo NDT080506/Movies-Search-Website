@@ -21,11 +21,17 @@ function App() {
     const moviesPerPage = 25;
 
     useEffect(() => {
-        async function loadMovies() {
-            const res = await fetch("/movies.json");
-            const data = await res.json();
+        async function loadMovies() {      
+            try{
+                const res = await fetch(
+                        `${import.meta.env.BASE_URL}movies.json`
+                    );
+                const data = await res.json();
 
-            setMovies(data);
+                setMovies(data);
+            } catch(error){
+                console.error("Error fetching movies:", error);
+            }
         }
 
         loadMovies();
