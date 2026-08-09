@@ -30,4 +30,4 @@ git clone https://github.com/NDT080506/MovieSearchApp.git
 
 ## 🌐 Live Demo
 
-**Website:** https://ndt080506.github.io/MovieSearchApp/pages/
+**Website:** [https://ndt080506.github.io/MovieSearch/](https://NDT080506.github.io/Movies-Search-Website/)
